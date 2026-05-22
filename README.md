@@ -2,25 +2,12 @@
 
 这是一个用于探索“群报数签到自动化”的模板项目。
 
-## 重要提醒
-
-本项目只是模板，不包含真实班级名单、真实课程地点、真实 QQ 群名或真实 API Key。
-
-不要把以下内容上传到公开仓库：
-
-- 真实学生名单
-- 真实课程地点
-- 真实 QQ 群名
-- API Key
-- 手机截图
-- 运行日志
-
 ## 文件说明
 
 - `students.example.txt`：匿名学生名单示例。
 - `courses.example.csv`：匿名课程表示例。
 - `config.example.json`：AutoX 配置示例。
-- `ai_config.example.json`：AI API 配置示例，不要填真实 key 后上传。
+- `ai_config.example.json`：AI API 配置示例。
 
 ## 项目结论
 
