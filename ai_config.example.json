@@ -1,0 +1,6 @@
+{
+  "provider": "tencent-tokenhub",
+  "baseUrl": "https://tokenhub.tencentmaas.com/plan/v3",
+  "apiKey": "这里填自己的API Key，不要上传真实key",
+  "model": "这里填当前平台支持的视觉模型ID"
+}

@@ -1,0 +1,41 @@
+{
+  "qqGroupName": "示例QQ群名",
+  "qqTextAfterImage": "@全体成员 大家通过这个签到",
+  "radiusMeters": 200,
+  "remindMinutesBefore": 15,
+  "startMinutesBefore": 10,
+  "endMinutesAfter": 5,
+  "dryRun": true,
+  "wechatSaveOnly": true,
+  "selectors": {
+    "wechatSearchMiniProgram": "群报数",
+    "createCustom": "自定义创建",
+    "locationCheckin": "定位签到",
+    "specifiedLocation": "到「指定位置」才能签到",
+    "chooseLocation": "点此选择定位地点",
+    "finish": "完成",
+    "radiusSetting": "以此地为中心",
+    "viewArea": "查看可签到的区域",
+    "confirm": "确定",
+    "defaultTitle": "定位打卡",
+    "presetList": "预设名单",
+    "onlyList": "仅名单",
+    "addList": "点此添加名单",
+    "next": "下一步",
+    "generalSettings": "通用设置",
+    "startTime": "可填报起始时间",
+    "saveAndForward": "保存，并去转发",
+    "shareQrCode": "分享二维码",
+    "saveToPhone": "保存到手机"
+  },
+  "popupTexts": [
+    "我知道了",
+    "知道了",
+    "允许",
+    "同意",
+    "暂不",
+    "跳过",
+    "关闭",
+    "取消"
+  ]
+}
